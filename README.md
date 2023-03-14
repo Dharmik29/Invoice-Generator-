@@ -1,1 +1,1 @@
-# Invoice-Generator-
+An invoice generator web app with ReactJS is a powerful tool that allows users to create and manage invoices quickly and efficiently. This app is built using ReactJS, which is a popular JavaScript library for building user interfaces.
